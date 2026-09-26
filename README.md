@@ -1,6 +1,6 @@
 <!-- HOW TO USE: create a new PUBLIC repo named exactly "vishallaljeet", tick "Add a README file", then replace its README.md with this file. It will appear at the top of github.com/vishallaljeet. -->
 Hi, I'm Vishal 👋
-Principal Platform / DevOps Engineer · 12 years · Calgary, AB 🇨🇦 (Canadian PR)
+Principal Platform / DevOps Engineer · 12 years · ON CA (Canadian PR)
 
 I build the platforms engineering teams ship on — CI/CD, Kubernetes, and infrastructure as code — mostly for global financial firms (Nomura, Instinet, BNP Paribas). Lately I'm connecting platform tooling to AI coding agents with MCP (Model Context Protocol) servers.
 
