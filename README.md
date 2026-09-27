@@ -6,7 +6,7 @@ It will appear at the top of github.com/vishallaljeet.
 
 # Hi, I'm Vishal 👋
 
-**Principal Platform / DevOps Engineer** · 12 years · Calgary, AB 🇨🇦 (Canadian PR)
+**Principal Platform / DevOps Engineer** · 12 years · Toronto, ON 🇨🇦 (Canadian PR)
 
 I build the platforms engineering teams ship on — CI/CD, Kubernetes, and
 infrastructure as code — mostly for global financial firms (Nomura, Instinet,
