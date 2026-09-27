@@ -8,13 +8,13 @@ It will appear at the top of github.com/vishallaljeet.
 
 **Principal Platform / DevOps Engineer** · 12 years · Toronto, ON 🇨🇦 (Canadian PR)
 
-I build the platforms engineering teams ship on — CI/CD, Kubernetes, and
-infrastructure as code — mostly for global financial firms (Nomura, Instinet,
+I build the platforms engineering teams ship on CI/CD, Kubernetes, and
+infrastructure as code mostly for global financial firms (Nomura, Instinet,
 BNP Paribas). Lately I'm connecting platform tooling to AI coding agents with
 **MCP (Model Context Protocol) servers**.
 
 ### Highlights
-- 🚚 Led an enterprise toolchain migration (GitLab, Jira, Confluence, Nexus) — reusable templates let **60+ teams self-migrate 200+ applications**, cutting licensing and infra costs by ~50%
+- 🚚 Led an enterprise toolchain migration (GitLab, Jira, Confluence, Nexus) reusable templates let **60+ teams self-migrate 200+ applications**, cutting licensing and infra costs by ~50%
 - ⚡ Cut a Java trading platform's multi-region build from **80 min → ~5 min** with a Gradle build cache
 - 💰 Consolidated **30+ redundant servers**, reducing infrastructure cost by **62%**
 - 🛡️ Added a mandatory **Trivy** container-scanning gate to GitLab CI that blocks high-severity CVEs
